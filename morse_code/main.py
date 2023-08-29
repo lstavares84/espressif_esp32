@@ -154,7 +154,7 @@ def to_leds(sentence_in_morse):
 while True:
     reset()   
     start()
-    sentence='0 Amor Lindo 5'    
+    sentence='PPGIA'    
     sentence_encoded=morse(sentence) #in morse() the function to blink leds will be called
     end()
 
